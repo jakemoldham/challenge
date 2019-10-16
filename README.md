@@ -8,9 +8,12 @@ To run the code use:
 
 `iex -S mix`
 
-wait for the console to load then run:
-`CodeChallenge.call()`
+Wait for the console to load then run: `CodeChallenge.call()`
+
+Challenge code can be found in `lib/code_challenge.ex`
 
 # Tests
 
 Run `mix test`
+
+Challenge test code can be found in `test/code_challenge_test.ex`
